@@ -1,2 +1,14 @@
-# scankick
-Bash script for scanning sites and ports via nmap and zmap and analysis of curl request
+# 🐶| SCANKICK
+Bash script for scanning sites and ports 🧩
+# Launching and Install App
+## Install Util (First Step)
+```
+bash setup.sh
+```
+## Launching Util (Second Step)
+```
+scankick
+```
+# Description
+This OSINT script will greatly simplify the work with ports and requests
+# Copyright
