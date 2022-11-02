@@ -1,4 +1,4 @@
-# 🐶| SCANKICK
+# 🐶 | SCANKICK
 Bash script for scanning sites and ports 🧩
 # Launching and Install App
 ## Install Util (First Step)
@@ -12,3 +12,4 @@ scankick
 # Description
 This OSINT script will greatly simplify the work with ports and requests
 # Copyright
+© Copyright by. Hellen
